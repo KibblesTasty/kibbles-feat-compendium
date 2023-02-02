@@ -1,0 +1,33 @@
+{
+"name": "kibbles-feat-compendium",
+"title": "Kibbles' Feat Compendium",
+"description": "A complete compendium of Kibbles' Feat",
+"author": "KibblesTasty",
+"version": "0.9",
+"minimumCoreVersion": "0.6.0",
+"compatibility": {
+    "minimum": "10",
+    "verified": "10.291"
+  },
+"manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-feat-compendium/main/module.json",
+"download": "https://github.com/KibblesTasty/kibbles-feat-compendium/releases/download/archive/kibbles-feat-compendium-main.zip",
+"keywords" : [
+			"feats"
+		],
+"packs": [
+			{
+			"name": "kibbles-feat-compendium",
+			"label": "Kibbles' Feat Compendium",
+			"system": "dnd5e",
+			"path": "packs/kibbles-feat-compendium.db",
+			"entity": "Item",
+			"module": "kibbles-feat-compendium"
+			}
+		],
+"authors": [
+			{
+			  "name": "KibblesTasty",
+			  "url": "https://kthomebrew.com"
+			}
+		]
+}
