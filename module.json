@@ -3,7 +3,7 @@
 "title": "Kibbles' Feat Compendium",
 "description": "A complete compendium of Kibbles' Feat",
 "author": "KibblesTasty",
-"version": "1.0",
+"version": "1.1",
 "minimumCoreVersion": "0.6.0",
 "compatibility": {
     "minimum": "10",
